@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/noteTaking.github.io/static/css/main.5477e6dc.css",
+    "main.js": "/noteTaking.github.io/static/js/main.13d75f72.js",
+    "index.html": "/noteTaking.github.io/index.html",
+    "main.5477e6dc.css.map": "/noteTaking.github.io/static/css/main.5477e6dc.css.map",
+    "main.13d75f72.js.map": "/noteTaking.github.io/static/js/main.13d75f72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5477e6dc.css",
+    "static/js/main.13d75f72.js"
+  ]
+}
