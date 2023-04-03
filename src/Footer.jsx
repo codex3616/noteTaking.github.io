@@ -6,8 +6,10 @@ const Footer = () => {
 
   return (
     <>
-      <footer className="container-fluid own-footer ">
-        <p> copyright © {year} NoteTaking </p>
+      <footer className="container-fluid own-footer text-center bg-light ">
+        <p className=" text-capitalize">
+          copyright © {year} NoteTaking, All rights reserved...
+        </p>
       </footer>
     </>
   );
